@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-[![Dev.to](https://github-readme-stats.vercel.app/api/pin/?username=godstyme&repo=dev.to)](https://github.com/godstyme/dev.to)
 ![godstyme's github stats](https://github-readme-stats.vercel.app/api?username=godstyme&show_icons=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=godstyme)](https://github.com/godstyme/github-readme-stats)
 <!--
