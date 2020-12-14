@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+[![godstyme's github stats](https://github-readme-stats.vercel.app/api?username=godstyme)](https://github.com/godstyme/github-readme-stats)
+![godstyme's github stats](https://github-readme-stats.vercel.app/api?username=godstyme&show_icons=true)
+![godstyme's github stats](https://github-readme-stats.vercel.app/api?username=godstyme&show_icons=true&theme=radical)
 <!--
 **Godstyme/Godstyme** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
