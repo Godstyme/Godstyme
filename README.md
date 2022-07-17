@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 ##### General Statistics
 ![godstyme's github stats](https://github-readme-stats.vercel.app/api?username=godstyme&show_icons=true&theme=radical)
 ### Streak
-[![godstyme's Github Stats](https://github-readme-streak-stats.herokuapp.com/?user=godstyme&stroke=ffffff&background=#141321&ring=14b8a6&fire=14b8a6&currStreakNum=ffffff&currStreakLabel=14b8a6&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true)](https://github.com/godstyme)
+[![godstyme's Github Stats](https://github-readme-streak-stats.herokuapp.com/?user=godstyme&stroke=ffffff&background=141321&ring=14b8a6&fire=14b8a6&currStreakNum=ffffff&currStreakLabel=14b8a6&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true)](https://github.com/godstyme)
 
 ##### Languages/Tools/Stack
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=godstyme&theme=radical)](https://github.com/godstyme/github-readme-stats)
