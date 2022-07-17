@@ -1,4 +1,5 @@
-**Godstyme/Godstyme** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.<br><br>
+<!--**Godstyme/Godstyme** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.<br><br>-->
+**Godstyme/Godstyme** is a ✨ _special_ ✨ repository because its `README.md`<br><br>
 [![Godstime Onyibe's Github Stats](https://activity-graph.herokuapp.com/graph?username=godstyme&bg_color=141321&color=ffffff&line=22c55e&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=My%20Commits%20Graph)](https://github.com/godstyme)
 ### Hi there 👋
 
