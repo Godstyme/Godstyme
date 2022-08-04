@@ -4,7 +4,7 @@
 ### Hi there 👋
 
 <h3> Welcome to my Repo</h3>
-I am a web developer proficient in HTML, CSS, JS PHP and SQL. Driven by curiosity and the desire to create efficient products that are innovative and user friendly. Seeking for entry-level role or internship with the above skills as a web developer where I can apply my skills and grow more in tech space.  I'm also open to learn a new technology.
+I'm a skilled web developer with knowledge in HTML, CSS, JS, PHP, and SQL. driven by curiosity and a passion to develop effective, cutting-edge, and user-friendly goods. Looking for an entry-level position or internship as a web developer with the aforementioned skills so I can put my knowledge to use and advance in the computer industry. I'm willing to learn new technologies as well.
 
 
 Here are some ideas to get you started:
