@@ -9,7 +9,7 @@ I'm a skilled web developer with knowledge in HTML, CSS, JS, PHP, and SQL. drive
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on funconnect and also Building a career in Tech.
+- 🔭 I’m currently Building a career in Tech.
 - 🌱 I’m currently learning laravel
 - 👯 I’m looking to collaborate on any php open source project
 - 💬 Ask me about PHP 😎
